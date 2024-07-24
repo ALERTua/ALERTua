@@ -3,3 +3,26 @@
 [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 [![Made in Ukraine](https://img.shields.io/badge/made_in-Ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 
+#### My Projects
+
+- [Rozetka.ua API Wrapper](https://github.com/ALERTua/rozetka_api).
+
+  [Rozetka.ua Keepa](https://github.com/ALERTua/rozetka_keepa) for Telegram.
+
+  [Rozetka.ua FastAPI](https://github.com/ALERTua/rozetka_fastapi) Prices Graph API.
+
+  [Rozetka.ua Browser Userscript](https://github.com/ALERTua/rozetka_userscript) that gets those prices from FastAPI.
+
+- [Microsoft Teams AdaptiveCards API Wrapper](https://github.com/ALERTua/msteamsapi) for Python 2 and 3
+- [Python Global Logger](https://github.com/ALERTua/global_logger) for newbies to centralize logging instances.
+- LLM-based [Air Raid Threat Reporter](https://github.com/ALERTua/air_raid_threat_reporter) to filter Telegram channels for relevant air raid threats for your 🇺🇦city.
+- [Stremio-Jackett](https://github.com/ALERTua/fork-stremio-jackett) fork with Tokola support.
+- [Home Assistant Pyscript Wrapper](https://github.com/ALERTua/ha_pyscript_modules) to easily instantiate and manipulate HA entities.
+- [Laptop Cooling Stand Fan Speed Controller](https://github.com/ALERTua/iets-speed-control) based on your CPU and GPU temperatures.
+- [Import Tax Calculator for Ukraine](https://github.com/ALERTua/import_tax_calculator) Django Web Service with API and Amazon Userscript.
+- [Instagram SessionID Getter](https://github.com/ALERTua/instagram_sessionid). Don't ask why.
+- [YouTube AutoManager](https://github.com/ALERTua/youtube_automanager) that sorts your Feed into your playlists by your filters.
+
+
+#### Archived Projects
+- [Favro.com API Wrapper](https://github.com/ALERTua/favro)
