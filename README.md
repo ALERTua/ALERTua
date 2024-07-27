@@ -4,7 +4,7 @@
 [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
 
-#### My Projects
+#### Projects
 
 - [Microsoft Teams AdaptiveCards API Wrapper](https://github.com/ALERTua/msteamsapi) for Python 2 and 3
 - LLM-based [Air Raid Threat Reporter](https://github.com/ALERTua/air_raid_threat_reporter) to filter Telegram channels for relevant air raid threats for your 🇺🇦city.
@@ -23,6 +23,10 @@
 - [Python Global Logger](https://github.com/ALERTua/global_logger) for newbies to centralize logging instances.
 - [YouTube AutoManager](https://github.com/ALERTua/youtube_automanager) that sorts your Feed into your playlists by your filters.
 - [Instagram SessionID Getter](https://github.com/ALERTua/instagram_sessionid). Don't ask why.
+
+#### Contributions
+
+- [Home Assistant](https://github.com/home-assistant/core/pulls?q=is%3Apr+author%3AALERTua)
 
 
 #### Archived Projects
