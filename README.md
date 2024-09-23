@@ -12,6 +12,7 @@
 - [Home Assistant Pyscript Wrapper](https://github.com/ALERTua/ha_pyscript_modules) to easily instantiate and manipulate HA entities.
 - [Laptop Cooling Stand Fan Speed Controller](https://github.com/ALERTua/iets-speed-control) based on your CPU and GPU temperatures.
 - [Rozetka.ua API Wrapper](https://github.com/ALERTua/rozetka_api).
+- [Helldivers 2 Speech Recognition Stratagems](https://github.com/ALERTua/helldivers_2_voice_stratagems)
 
   [Rozetka.ua Keepa](https://github.com/ALERTua/rozetka_keepa) for Telegram.
 
