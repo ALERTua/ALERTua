@@ -13,6 +13,7 @@
 - [Laptop Cooling Stand Fan Speed Controller](https://github.com/ALERTua/iets-speed-control) based on your CPU and GPU temperatures.
 - [Rozetka.ua API Wrapper](https://github.com/ALERTua/rozetka_api).
 - [Helldivers 2 Speech Recognition Stratagems](https://github.com/ALERTua/helldivers_2_voice_stratagems)
+- [Amazon Games Server Monitor]([https://github.com/ALERTua/helldivers_2_voice_stratagems](https://github.com/ALERTua/amazon_games_server_monitor))
 
   [Rozetka.ua Keepa](https://github.com/ALERTua/rozetka_keepa) for Telegram.
 
