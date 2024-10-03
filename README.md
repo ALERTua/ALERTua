@@ -11,14 +11,14 @@
 - [Stremio-Jackett](https://github.com/ALERTua/fork-stremio-jackett) fork with Tokola support.
 - [Home Assistant Pyscript Wrapper](https://github.com/ALERTua/ha_pyscript_modules) to easily instantiate and manipulate HA entities.
 - [Laptop Cooling Stand Fan Speed Controller](https://github.com/ALERTua/iets-speed-control) based on your CPU and GPU temperatures.
-- [Rozetka.ua API Wrapper](https://github.com/ALERTua/rozetka_api).
 - [Helldivers 2 Speech Recognition Stratagems](https://github.com/ALERTua/helldivers_2_voice_stratagems)
-- [Amazon Games Server Monitor]([https://github.com/ALERTua/helldivers_2_voice_stratagems](https://github.com/ALERTua/amazon_games_server_monitor))
+- [Amazon Games Server Monitor](https://github.com/ALERTua/amazon_games_server_monitor)
+- [Rozetka.ua API Wrapper](https://github.com/ALERTua/rozetka_api).
 
   [Rozetka.ua Keepa](https://github.com/ALERTua/rozetka_keepa) for Telegram.
-
+  
   [Rozetka.ua FastAPI](https://github.com/ALERTua/rozetka_fastapi) Prices Graph API.
-
+  
   [Rozetka.ua Browser Userscript](https://github.com/ALERTua/rozetka_userscript) that gets those prices from FastAPI.
 
 - [Import Tax Calculator for Ukraine](https://github.com/ALERTua/import_tax_calculator) Django Web Service with API and Amazon Userscript.
