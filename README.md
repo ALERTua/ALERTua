@@ -14,6 +14,7 @@
 - [Helldivers 2 Speech Recognition Stratagems](https://github.com/ALERTua/helldivers_2_voice_stratagems)
 - [Amazon Games Server Monitor](https://github.com/ALERTua/amazon_games_server_monitor)
 - [Bandcamp Newsfeed RSS Feed Generator](https://github.com/ALERTua/bandcamp_newsfeed_rss) generates your Bandcamp newsfeed RSS feed.
+- [Instagram User RSS Feed Generator](https://github.com/ALERTua/instagram_rss) generates RSS Feed for an Instagram User.
 - [Rozetka.ua API Wrapper](https://github.com/ALERTua/rozetka_api).
 
   [Rozetka.ua Keepa](https://github.com/ALERTua/rozetka_keepa) for Telegram.
