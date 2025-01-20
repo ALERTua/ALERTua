@@ -26,6 +26,7 @@
 - [Import Tax Calculator for Ukraine](https://github.com/ALERTua/import_tax_calculator) Django Web Service with API and Amazon Userscript.
 - [Python Global Logger](https://github.com/ALERTua/global_logger) for newbies to centralize logging instances.
 - [YouTube AutoManager](https://github.com/ALERTua/youtube_automanager) that sorts your Feed into your playlists by your filters.
+- [Update Checker](https://github.com/ALERTua/updatechecker) - A Python utility for automatically checking and downloading updates for files and GitHub releases
 
 #### Contributions
 
