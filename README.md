@@ -6,6 +6,7 @@
 
 #### Projects
 
+- [Home Assistant Gaggiuino HACS Integration](https://github.com/ALERTua/hass-gaggiuino) for [Gaggiuino Coffee Machines](https://gaggiuino.github.io)
 - [Microsoft Teams AdaptiveCards API Wrapper](https://github.com/ALERTua/msteamsapi) for Python 2 and 3
 - LLM-based [Air Raid Threat Reporter](https://github.com/ALERTua/air_raid_threat_reporter) to filter Telegram channels for relevant air raid threats for your 🇺🇦city.
 - [Stremio-Jackett](https://github.com/ALERTua/fork-stremio-jackett) fork with Tokola support.
@@ -30,7 +31,7 @@
 
 #### Contributions
 
-- [Home Assistant](https://github.com/home-assistant/core/pulls?q=is%3Apr+author%3AALERTua)
+- [Home Assistant PR](https://github.com/home-assistant/core/pulls?q=is%3Apr+author%3AALERTua)
 
 
 #### Archived Projects
