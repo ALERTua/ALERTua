@@ -14,7 +14,6 @@
 
 #### Automation
 
-- LLM-based [Air Raid Threat Reporter](https://github.com/ALERTua/air_raid_threat_reporter) to filter Telegram channels for relevant air raid threats for your 🇺🇦city. 🇺🇦🐍🤖🐳
 - [Laptop Cooling Stand Fan Speed Controller](https://github.com/ALERTua/iets-speed-control) based on your CPU and GPU temperatures. 💻🆒🤖🐍📱
   
 #### Libraries
@@ -52,6 +51,7 @@
 
 
 ### Archived Projects
+- LLM-based [Air Raid Threat Reporter](https://github.com/ALERTua/air_raid_threat_reporter) to filter Telegram channels for relevant air raid threats for your 🇺🇦city. 🇺🇦🐍🤖🐳
 - [Favro.com API Wrapper](https://github.com/ALERTua/favro) 🐍📚
 
 #### Legend
