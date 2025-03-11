@@ -8,8 +8,8 @@
 
 #### Home Automation
 
-- [Home Assistant Gaggiuino HACS Integration](https://github.com/ALERTua/hass-gaggiuino) for [Gaggiuino Coffee Machines](https://gaggiuino.github.io). ☕🏠🤖🐍
-- [Gaggiuino REST Api Wrapper for Python](https://github.com/ALERTua/gaggiuino_api) for [Gaggiuino Coffee Machines](https://gaggiuino.github.io). ☕🏠🤖🐍📚
+- [Home Assistant Gaggiuino HACS Integration](https://github.com/ALERTua/hass-gaggiuino) for [Gaggiuino](https://gaggiuino.github.io). ☕🏠🤖🐍
+- [Gaggiuino REST Api Wrapper for Python](https://github.com/ALERTua/gaggiuino_api) for [Gaggiuino](https://gaggiuino.github.io). ☕🏠🤖🐍📚
 - [Home Assistant Pyscript Wrapper](https://github.com/ALERTua/ha_pyscript_modules) to easily instantiate and manipulate HA entities. 🏠🤖🐍
 
 #### Automation
