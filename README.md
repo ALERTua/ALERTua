@@ -13,7 +13,7 @@
 - [Home Assistant Pyscript Wrapper](https://github.com/ALERTua/ha_pyscript_modules) to easily instantiate and manipulate HA entities. 🏠🤖🐍
 
 #### Automation
-
+- [Open WebUI Knowledge Sync](https://github.com/ALERTua/open_webui_knowledge_sync). A Python CLI tool for synchronizing local files with Open WebUI knowledge bases. 🤖🐍
 - [Laptop Cooling Stand Fan Speed Controller](https://github.com/ALERTua/iets-speed-control) based on your CPU and GPU temperatures. 💻🆒🤖🐍📱
   
 #### Libraries
