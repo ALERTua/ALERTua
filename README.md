@@ -9,8 +9,15 @@
 
 #### Self-Hosting | Home Automation
 
-- [Home Assistant Gaggiuino HACS Integration](https://github.com/ALERTua/hass-gaggiuino) for [Gaggiuino](https://gaggiuino.github.io). ☕🏠🤖🐍
-- [Gaggiuino REST Api Wrapper for Python](https://github.com/ALERTua/gaggiuino_api) for [Gaggiuino](https://gaggiuino.github.io). ☕🏠🤖🐍📚
+- Ukrainian Text-to-Speech inference for Home Assistant: 🐍🐳
+  - [Docker container for patriotyk/styletts2_ukrainian Gradio app](https://github.com/ALERTua/patriotyk_styletts2_ukrainian_docker)
+  - [Docker container with OpenAI TTS API endpoints for the patriotyk/styletts2-ukrainian Gradio app](https://github.com/ALERTua/styletts2-ukrainian-openai-tts-api)
+- Ukrainian Speech-to-Text inference for Home Assistant: 🐍🐳
+  - [Docker container for Ukrainian Speech to Text inference Gradio app](https://github.com/ALERTua/stt_ukrainian_docker)
+  - [Docker container with OpenAI STT API endpoints for the Docker image ALERTua/stt_ukrainian_docker](https://github.com/ALERTua/stt-ukrainian-api)
+- Gaggiuino ☕
+  - [Home Assistant Gaggiuino HACS Integration](https://github.com/ALERTua/hass-gaggiuino) for [Gaggiuino](https://gaggiuino.github.io). ☕🏠🤖🐍
+  - [Gaggiuino REST Api Wrapper for Python](https://github.com/ALERTua/gaggiuino_api) for [Gaggiuino](https://gaggiuino.github.io). ☕🏠🤖🐍📚
 - [Home Assistant Pyscript Wrapper](https://github.com/ALERTua/ha_pyscript_modules) to easily instantiate and manipulate HA entities. 🏠🤖🐍
 - [Stremio-Jackett](https://github.com/ALERTua/fork-stremio-jackett) fork with Tokola support. 🎥🐍🐳
 - [Bandcamp Newsfeed RSS Feed Generator](https://github.com/ALERTua/bandcamp_newsfeed_rss) generates your Bandcamp newsfeed RSS feed. 📰🐍🐳
@@ -18,12 +25,6 @@
 - [Import Tax Calculator for Ukraine](https://github.com/ALERTua/import_tax_calculator) Django Web Service with API and Amazon Userscript. 🐍🐳
 - [YouTube AutoManager](https://github.com/ALERTua/youtube_automanager) that sorts your Feed into your playlists by your filters. 🐍🐳
 - [Update Checker](https://github.com/ALERTua/updatechecker) - A Python utility for automatically checking and downloading updates for files and GitHub releases. 🐍
-- Docker wrapper for Ukrainian Text-to-Speech inference for Home Assistant: 🐍🐳
-  - [Docker container for patriotyk/styletts2_ukrainian Gradio app](https://github.com/ALERTua/patriotyk_styletts2_ukrainian_docker)
-  - [Docker container with OpenAI TTS API endpoints for the patriotyk/styletts2-ukrainian Gradio app](https://github.com/ALERTua/styletts2-ukrainian-openai-tts-api)
-- Docker wrapper for Ukrainian Speech-to-Text inference for Home Assistant: 🐍🐳
-  - [Docker container for Ukrainian Speech to Text inference Gradio app](https://github.com/ALERTua/stt_ukrainian_docker)
-  - [Docker container with OpenAI STT API endpoints for the Docker image ALERTua/stt_ukrainian_docker](https://github.com/ALERTua/stt-ukrainian-api)
 
 
 #### Automation
@@ -31,11 +32,12 @@
 - [Open WebUI Knowledge Sync](https://github.com/ALERTua/open_webui_knowledge_sync). A Python CLI tool for synchronizing local files with Open WebUI knowledge bases. 🤖🐍
 - [Laptop Cooling Stand Fan Speed Controller](https://github.com/ALERTua/iets-speed-control) based on your CPU and GPU temperatures. 💻🆒🤖🐍📱
 - [Windows 11 Dev Drive Creation Script](https://github.com/ALERTua/dev_drive_creation) 🪟🤖
+
   
 #### Libraries
 
 - [Microsoft Teams AdaptiveCards API Wrapper](https://github.com/ALERTua/msteamsapi) for Python 2 and 3 🐍📚
-- [Python Global Logger](https://github.com/ALERTua/global_logger) for newbies to centralize logging instances. 🐍📚
+- [Python Global Logger](https://github.com/ALERTua/global_logger) for newbies to centralize Python logging. 🐍📚
 
 
 #### Gaming
@@ -46,7 +48,7 @@
 
 ### Contributions
 
-- [Home Assistant PR](https://github.com/home-assistant/core/pulls?q=is%3Apr+author%3AALERTua) 🏠🤖🐍
+- [Home Assistant pull requests](https://github.com/home-assistant/core/pulls?q=is%3Apr+author%3AALERTua) 🏠🤖🐍
 
 
 ### Archived Projects
@@ -59,11 +61,12 @@
 - LLM-based [Air Raid Threat Reporter](https://github.com/ALERTua/air_raid_threat_reporter) to filter Telegram channels for relevant air raid threats for your 🇺🇦city. 🇺🇦🐍🤖🐳
 - [Favro.com API Wrapper](https://github.com/ALERTua/favro) 🐍📚
 
+
 #### Legend
-- 📚 — Library
-- 🏠 — Home
-- 🤖 — Automation
-- 🐍 — Python
-- 🐳 — Docker
-- 📰 — RSS
-- 📱 — Microcontroller
+- 📚 Library
+- 🏠 Home
+- 🤖 Automation
+- 🐍 Python
+- 🐳 Docker
+- 📰 RSS
+- 📱 Microcontroller
