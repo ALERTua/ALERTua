@@ -15,6 +15,7 @@
 - Ukrainian Speech-to-Text inference for Home Assistant: 🐍🐳
   - [Docker container for Ukrainian Speech to Text inference Gradio app](https://github.com/ALERTua/stt_ukrainian_docker)
   - [Docker container with OpenAI STT API endpoints for the Docker image ALERTua/stt_ukrainian_docker](https://github.com/ALERTua/stt-ukrainian-api)
+- [Svitlo Yeah!](https://github.com/ALERTua/ha-svitlo-yeah) Home Assistant HACS Integration that provides power outage schedules for Ukraine. 🏠🤖🐍
 - Gaggiuino ☕
   - [Home Assistant Gaggiuino HACS Integration](https://github.com/ALERTua/hass-gaggiuino) for [Gaggiuino](https://gaggiuino.github.io). ☕🏠🤖🐍
   - [Gaggiuino REST Api Wrapper for Python](https://github.com/ALERTua/gaggiuino_api) for [Gaggiuino](https://gaggiuino.github.io). ☕🏠🤖🐍📚
