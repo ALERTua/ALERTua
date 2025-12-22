@@ -37,6 +37,7 @@
   
 #### Libraries
 
+- [Bandcamp Async API](https://github.com/ALERTua/bandcamp_async_api) for [Music Assistant](https://github.com/music-assistant) 🐍📚
 - [Microsoft Teams AdaptiveCards API Wrapper](https://github.com/ALERTua/msteamsapi) for Python 2 and 3 🐍📚
 - [Python Global Logger](https://github.com/ALERTua/global_logger) for newbies to centralize Python logging. 🐍📚
 
