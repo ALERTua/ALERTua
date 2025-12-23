@@ -51,6 +51,7 @@
 ### Contributions
 
 - [Home Assistant pull requests](https://github.com/home-assistant/core/pulls?q=is%3Apr+author%3AALERTua) 🏠🤖🐍
+- [Music Assistant pull requests](https://github.com/music-assistant/server/pulls?q=is%3Apr+author%3AALERTua) 🏠🤖🐍
 
 
 ### Archived Projects
