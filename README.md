@@ -20,7 +20,7 @@
   - [Home Assistant Gaggiuino HACS Integration](https://github.com/ALERTua/hass-gaggiuino) for [Gaggiuino](https://gaggiuino.github.io). ☕🏠🤖🐍
   - [Gaggiuino REST Api Wrapper for Python](https://github.com/ALERTua/gaggiuino_api) for [Gaggiuino](https://gaggiuino.github.io). ☕🏠🤖🐍📚
 - [Home Assistant Pyscript Wrapper](https://github.com/ALERTua/ha_pyscript_modules) to easily instantiate and manipulate HA entities. 🏠🤖🐍
-- [Home Assistant Public Dashboard Add-on](https://github.com/ALERTua/ha-public-dashboard) to provide secure read-only dashboard for your neighbors 🏠🤖🐍
+- [Home Assistant Public Dashboard Add-on](https://github.com/ALERTua/ha-public-dashboard) to provide secure read-only dashboard for your neighbors 🏠🤖🐳🐍
 - [Stremio-Jackett](https://github.com/ALERTua/fork-stremio-jackett) fork with Tokola support. 🎥🐍🐳
 - [Bandcamp Newsfeed RSS Feed Generator](https://github.com/ALERTua/bandcamp_newsfeed_rss) generates your Bandcamp newsfeed RSS feed. 📰🐍🐳
 - [Instagram User RSS Feed Generator](https://github.com/ALERTua/instagram_rss) generates RSS Feed for an Instagram User. 📰🐍🐳
@@ -74,3 +74,4 @@
 - 🐳 Docker
 - 📰 RSS
 - 📱 Microcontroller
+
